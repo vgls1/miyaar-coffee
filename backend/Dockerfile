@@ -15,7 +15,7 @@ RUN pnpm install --frozen-lockfile
 COPY . .
 
 # Generate Prisma Client (uses the schema in src/prisma/schema.prisma)
-RUN npx prisma generate --schema=src/prisma/schema.prisma
+RUN ./node_modules/.bin/prisma generate --schema=src/prisma/schema.prisma
 
 # Build the application
 RUN pnpm run build
