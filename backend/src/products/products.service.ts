@@ -191,24 +191,7 @@ export class ProductsService {
           categoryId: accessoriesCategory.id,
           images: ['/products/4.jpg']
       },
-      {
-          name: 'Miyaar Gift Box',
-          slug: 'miyaar-gift-box',
-          description: 'The ultimate luxury gift. Includes beans, mug, and accessories.',
-          price: 350.00,
-          stock: 10,
-          categoryId: accessoriesCategory.id,
-          images: ['/products/5.png']
-      },
-        {
-          name: 'Ceramic Tasting Cup',
-          slug: 'ceramic-cup',
-          description: 'Handcrafted ceramic cup designed to enhance aroma.',
-          price: 65.00,
-          stock: 10,
-          categoryId: accessoriesCategory.id,
-          images: ['/products/6.png']
-      }
+     
     ];
 
     const results: any[] = [];
