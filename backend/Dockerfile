@@ -37,4 +37,4 @@ COPY --from=builder /usr/src/app/package.json ./package.json
 
 EXPOSE 3000
 
-CMD ["node", "dist/main"]
+CMD ["/bin/sh", "-c", "./node_modules/.bin/prisma migrate deploy && node dist/main"]
