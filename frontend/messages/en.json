@@ -1,0 +1,152 @@
+{
+  "Index": {
+    "title": "MIYAAR",
+    "hero": "Luxury Coffee Experience",
+    "shopNow": "Shop Now",
+    "exploreOrigins": "Explore Origins",
+    "description": "Elevate your daily ritual with our ethically sourced, masterfully roasted beans. Taste the difference of true craftsmanship.",
+    "features": {
+        "roastedTitle": "Expertly Roasted",
+        "roastedDesc": "Small batches roasted to perfection to highlight unique flavor profiles.",
+        "sourcedTitle": "Ethically Sourced",
+        "sourcedDesc": "Direct trade partnerships ensuring fair wages for our farmers.",
+        "qualityTitle": "Premium Quality",
+        "qualityDesc": "Only the top 1% of Arabica beans make it into our signature blends."
+    }
+  },
+  "Shop": {
+    "title": "Our Collection",
+    "addToCart": "Add to Cart",
+    "backToShop": "Back to Shop",
+    "outOfStock": "Out of Stock",
+    "loading": "Brewing...",
+    "error": "Failed to load products",
+    "searchPlaceholder": "Search for coffee...",
+    "all": "All",
+    "noProducts": "No products found",
+    "tryAdjusting": "Try adjusting your search or filters.",
+    "clearFilters": "Clear all filters"
+  },
+  "Products": {
+    "Categories": {
+        "coffee": "Coffee",
+        "accessories": "Accessories"
+    },
+    "ethiopian-origin": {
+        "name": "Ethiopian Origin",
+        "description": "Floral & Citrus notes. Washed process. Altitude 2000m-2200m."
+    },
+    "colombian-roast": {
+        "name": "Colombian Roast",
+        "description": "Smooth chocolate body with hints of caramel."
+    },
+    "miyaar-signature": {
+        "name": "Miyaar Signature Blend",
+        "description": "Our award-winning house blend. Perfectly balanced."
+    },
+    "travel-tumbler": {
+        "name": "Miyaar Travel Tumbler",
+        "description": "Matte black vacuum insulated tumbler. Keeps coffee hot for 6 hours."
+    },
+    "miyaar-gift-box": {
+        "name": "Miyaar Gift Box",
+        "description": "The ultimate luxury gift. Includes beans, mug, and accessories."
+    },
+    "ceramic-cup": {
+        "name": "Ceramic Tasting Cup",
+        "description": "Handcrafted ceramic cup designed to enhance aroma."
+    }
+  },
+  "Nav": {
+    "home": "Home",
+    "shop": "Shop",
+    "about": "Our Story",
+    "cart": "Cart",
+    "language": "العربية"
+  },
+  "Profile": {
+    "title": "My Account",
+    "welcome": "{name}, curation for your refined taste",
+    "signOut": "Sign Out",
+    "personal": "Personal Details",
+    "orders": "My Orders",
+    "wishlist": "Wishlist",
+    "addresses": "Addresses",
+    "fullName": "Full Name",
+    "email": "Email Address",
+    "phone": "Phone Number",
+    "saveChanges": "Save Changes",
+    "orderHistory": "Order Rituals",
+    "recentOrders": "Recent Orders",
+    "viewAll": "View All",
+    "wishlistTitle": "My Wishlist",
+    "wishlistEmpty": "You haven't saved any items yet.",
+    "browseShop": "Browse Shop",
+    "addressesTitle": "Saved Addresses",
+    "addressesEmpty": "No addresses saved.",
+    "addAddress": "Add New Address"
+  },
+  "Auth": {
+    "loginTitle": "Welcome Back",
+    "loginSubtitle": "Sign in to your account",
+    "loginButton": "Sign In",
+    "registerTitle": "Create Account",
+    "registerSubtitle": "Join the Miyaar community",
+    "registerButton": "Create Account",
+    "loginLink": "Already have an account? Sign In",
+    "registerLink": "Don't have an account? Sign Up",
+    "loginSuccess": "Logged in successfully",
+    "loginError": "Invalid credentials",
+    "registerSuccess": "Account created successfully",
+    "registerError": "Registration failed",
+    "logoutSuccess": "Logged out"
+  },
+  "ProductDetails": {
+      "premiumRoast": "Premium Roast",
+      "reviews": "{count} Reviews",
+      "features": {
+          "singleOrigin": "Single Origin",
+          "arabicBeans": "Arabic Beans",
+          "washedProcess": "Washed Process",
+          "mediumRoast": "Medium Roast"
+      },
+      "badges": {
+          "fastDelivery": "Fast Delivery",
+          "securePayment": "Secure Payment",
+          "premiumQuality": "Premium Quality"
+      }
+  },
+  "Checkout": {
+    "title": "Checkout",
+    "shipping": "Shipping Information",
+    "payment": "Payment Method",
+    "orderSummary": "Order Summary",
+    "fullName": "Full Name",
+    "phone": "Phone Number",
+    "address": "Address",
+    "city": "City",
+    "placeOrder": "Place Order",
+    "subtotal": "Subtotal",
+    "shippingFee": "Shipping Fee",
+    "total": "Total",
+    "processing": "Processing...",
+    "cashOnDelivery": "Cash on Delivery",
+    "creditCard": "Credit Card",
+    "free": "Free"
+  },
+  "Success": {
+    "title": "Order Placed Successfully!",
+    "message": "Thank you for shopping with Miyaar. You will receive a confirmation email shortly.",
+    "orderNumber": "Order Number",
+    "backToShop": "Back to Shop"
+  },
+  "Cart": {
+    "title": "Your Order",
+    "items": "Products",
+    "empty": "Your bag is empty",
+    "emptyDesc": "Looks like you haven't added any luxury coffee yet.",
+    "startShopping": "Start Shopping",
+    "total": "Total",
+    "checkout": "Checkout"
+  }
+}

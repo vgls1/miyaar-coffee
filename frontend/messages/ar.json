@@ -1,0 +1,152 @@
+{
+  "Index": {
+    "title": "مِعْيَار",
+    "hero": "تجربة قهوة فاخرة",
+    "shopNow": "تسوق الآن",
+    "exploreOrigins": "اكتشف الأصول",
+    "description": "ارتقِ بطقوسك اليومية مع حبوبنا المحمصة بإتقان والمصادر الأخلاقية. تذوق الفرق في الحرفية الحقيقية.",
+    "features": {
+        "roastedTitle": "تحميص خبير",
+        "roastedDesc": "دفعات صغيرة محمصة بامتياز لإبراز نكهات فريدة.",
+        "sourcedTitle": "مصادر أخلاقية",
+        "sourcedDesc": "شراكات تجارية مباشرة تضمن أجوراً عادلة للمزارعين.",
+        "qualityTitle": "جودة ممتازة",
+        "qualityDesc": "فقط أفضل 1% من حبوب أرابيكا تدخل في خلطاتنا المميزة."
+    }
+  },
+  "Shop": {
+    "title": "تشكيلتنا",
+    "addToCart": "أضف إلى السلة",
+    "outOfStock": "نفذت الكمية",
+    "backToShop": "العودة للمتجر",
+    "loading": "جاري تحميل المنتجات...",
+    "error": "فشل تحميل المنتجات",
+    "searchPlaceholder": "ابحث عن القهوة...",
+    "all": "الكل",
+    "noProducts": "لم يتم العثور على منتجات",
+    "tryAdjusting": "حاول تعديل البحث أو الفلاتر.",
+    "clearFilters": "مسح الفلاتر"
+  },
+  "Products": {
+    "Categories": {
+        "coffee": "قهوة",
+        "accessories": "ملحقات"
+    },
+     "ethiopian-origin": {
+        "name": "محصول إثيوبي مختص",
+        "description": "إيحاءات زهرية وحمضية. معالجة مغسولة. ارتفاع 2000م-2200م."
+    },
+    "colombian-roast": {
+        "name": "تحميص كولومبي",
+        "description": "قوام شوكولاتة سلس مع لمسات من الكراميل."
+    },
+    "miyaar-signature": {
+        "name": "خلطة معيار الخاصة",
+        "description": "خلطتنا المنزلية الحائزة على جوائز. متوازنة بشكل مثالي."
+    },
+    "travel-tumbler": {
+        "name": "كوب معيار للتنقل",
+        "description": "كوب أسود غير لامع معزول بالتفريغ. يحفظ الحرارة لمدة 6 ساعات."
+    },
+    "miyaar-gift-box": {
+        "name": "صندوق هدايا معيار",
+        "description": "هدية فاخرة مثالية. تشمل حبوب القهوة وكوب وملحقات."
+    },
+    "ceramic-cup": {
+        "name": "كوب تذوق سيراميك",
+        "description": "كوب سيراميك مصنوع يدوياً لتعزيز الروائح."
+    }
+  },
+  "Nav": {
+    "home": "الرئيسية",
+    "shop": "المتجر",
+    "about": "قصتنا",
+    "cart": "السلة",
+    "language": "English"
+  },
+  "Profile": {
+    "title": "حسابي",
+    "welcome": "{name}، تنسيقٌ لِذوقِك الرفيع",
+    "signOut": "تسجيل الخروج",
+    "personal": "بياناتي الشخصية",
+    "orders": "طلباتي",
+    "wishlist": "قائمة التفضيلات",
+    "addresses": "عناويني",
+    "fullName": "الاسم الكامل",
+    "email": "البريد الإلكتروني",
+    "phone": "رقم الهاتف",
+    "saveChanges": "حفظ التغييرات",
+    "orderHistory": "سجل طقوسك الفاخرة",
+    "recentOrders": "أحدث الطلبات",
+    "viewAll": "عرض الكل",
+    "wishlistTitle": "قائمة رغباتي",
+    "wishlistEmpty": "لم تقم بحفظ أي عناصر بعد.",
+    "browseShop": "تصفح المتجر",
+    "addressesTitle": "العناوين المحفوظة",
+    "addressesEmpty": "لا توجد عناوين محفوظة.",
+    "addAddress": "إضافة عنوان جديد"
+  },
+  "Auth": {
+    "loginTitle": "مرحباً بعودتك",
+    "loginSubtitle": "سجل دخولك للمتابعة",
+    "loginButton": "تسجيل الدخول",
+    "registerTitle": "إنشاء حساب جديد",
+    "registerSubtitle": "انضم إلى مجتمع معيار",
+    "registerButton": "إنشاء حساب",
+    "loginLink": "لدي حساب بالفعل؟ تسجيل الدخول",
+    "registerLink": "ليس لديك حساب؟ إنشاء حساب",
+    "loginSuccess": "تم تسجيل الدخول بنجاح",
+    "loginError": "بيانات الدخول غير صحيحة",
+    "registerSuccess": "تم إنشاء الحساب بنجاح",
+    "registerError": "فشل إنشاء الحساب",
+    "logoutSuccess": "تم تسجيل الخروج"
+  },
+  "ProductDetails": {
+      "premiumRoast": "تحميص فاخر",
+      "reviews": "{count} تقييمات",
+      "features": {
+          "singleOrigin": "مصدر واحد",
+          "arabicBeans": "حبوب عربية",
+          "washedProcess": "معالجة مغسولة",
+          "mediumRoast": "تحميص متوسط"
+      },
+      "badges": {
+          "fastDelivery": "توصيل سريع",
+          "securePayment": "دفع آمن",
+          "premiumQuality": "جودة فاخرة"
+      }
+  },
+  "Checkout": {
+    "title": "إتمام الشراء",
+    "shipping": "معلومات الشحن",
+    "payment": "طريقة الدفع",
+    "orderSummary": "ملخص الطلب",
+    "fullName": "الاسم الكامل",
+    "phone": "رقم الهاتف",
+    "address": "العنوان",
+    "city": "المدينة",
+    "placeOrder": "إتمام الطلب",
+    "subtotal": "المجموع الفرعي",
+    "shippingFee": "رسوم الشحن",
+    "total": "المجموع الإجمالي",
+    "processing": "جاري المعالجة...",
+    "cashOnDelivery": "الدفع عند الاستلام",
+    "creditCard": "بطاقة ائتمان",
+    "free": "مجاناً"
+  },
+  "Success": {
+    "title": "تم استلام طلبك!",
+    "message": "شكراً لك على تسوقك من مِعْيَار. ستتلقى رسالة تأكيد قريباً.",
+    "orderNumber": "رقم الطلب",
+    "backToShop": "العودة للمتجر"
+  },
+  "Cart": {
+    "title": "سلة التسوق",
+    "items": "منتجات",
+    "empty": "سلتك فارغة",
+    "emptyDesc": "يبدو أنك لم تضف أي قهوة فاخرة بعد.",
+    "startShopping": "ابدأ التسوق",
+    "total": "الإجمالي",
+    "checkout": "الدفع"
+  }
+}

@@ -1,0 +1,20 @@
+version: '3.8'
+
+services:
+  # Database Service - Run this to have a local PostgreSQL request
+  db:
+    image: postgres:16-alpine
+    restart: always
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: password123
+      POSTGRES_DB: nestbackend
+    ports:
+      - "51213:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+
+  # Application Service - Optional, if you want to run the app in Docker
+ 
+volumes:
+  postgres_data:
