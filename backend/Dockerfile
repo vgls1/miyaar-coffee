@@ -15,6 +15,9 @@ RUN pnpm install --frozen-lockfile
 COPY . .
 
 # Generate Prisma Client (uses the schema in src/prisma/schema.prisma)
+# We need to set a dummy DATABASE_URL for the generate step if it validates the connection
+ARG DATABASE_URL
+ENV DATABASE_URL="postgresql://dummy:dummy@localhost:5432/dummy"
 RUN ./node_modules/.bin/prisma generate --schema=src/prisma/schema.prisma
 
 # Build the application
